@@ -24,7 +24,6 @@
 	margin: 20px 10px;
 	font-size: larger;
 	text-align: center;
-	/* text-shadow: 2px 2px 20px gray; */
 }
 
 .divider {
@@ -64,7 +63,6 @@
 .sales-officers,
 .marketing-officers {
 	margin: 5px;
-	/* background-color: skyblue; */
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
